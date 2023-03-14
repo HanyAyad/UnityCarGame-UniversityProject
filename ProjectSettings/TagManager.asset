@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Lost
+  - Slow
+  - Fast
   layers:
   - Default
   - TransparentFX
